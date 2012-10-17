@@ -1,0 +1,1 @@
+本项目是[https://github.com/fanzeyi/Vulpix](https://github.com/fanzeyi/Vulpix)项目的一个fork，原项目中的代码、图片均维持原有协议/版权，新增的代码延续原有协议（BSD）。
