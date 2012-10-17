@@ -14,6 +14,10 @@ mysql_config = {
     'mysql_database' : ''
 }
 
+mysql_path = 'mysql+' + 'mysqldb://' + mysql_config['mysql_user'] \
+			+ ':' + mysql_config['mysql_password'] + '@' \
+			+ mysql_config['mysql_host'] + '/' + mysql_config['mysql_database']
+
 accept_lang = {
     'zh_cn' : 'zh_CN', 
     'en'    : 'en_US', 
